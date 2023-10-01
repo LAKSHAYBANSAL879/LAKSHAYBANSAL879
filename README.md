@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaybansal879&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaybansal879" /> </p>
 
-- 🌱 I’m currently learning **REACT.JS,FLUTTER,DSA**
+- 🌱 I’m currently learning **FLUTTER,DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LAKSHAYBANSAL879](https://github.com/LAKSHAYBANSAL879)
 
-- 💬 Ask me about **MySQL,MongoDB,JS,NODE.JS,EXPRESS.JS**
+- 💬 Ask me about **MERN stack WEBD**
 
 - 📫 How to reach me **lakshaybansal879@gmail.com**
 
