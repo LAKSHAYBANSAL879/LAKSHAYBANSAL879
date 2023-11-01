@@ -30,6 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshaybansal879&show_icons=true&locale=en" alt="lakshaybansal879" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaybansal879&" alt="lakshaybansal879" /></p>
-[![An image of @lakshaybansal879's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakshaybansal879)](https://holopin.io/@lakshaybansal879)
+[![An image of @lakshaybansal879's Holopin badges](https://holopin.me/lakshaybansal879)](https://holopin.io/@lakshaybansal879)
+
 
 
