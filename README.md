@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshaybansal879&show_icons=true&locale=en" alt="lakshaybansal879" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaybansal879&" alt="lakshaybansal879" /></p>
-![Holopin Badges](./lakshaybansal879.png)
+<p><img src="./lakshaybansal879.png"></p>
 
 
 
