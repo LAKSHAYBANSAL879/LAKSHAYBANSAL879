@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning **FLUTTER,DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LAKSHAYBANSAL879](https://github.com/LAKSHAYBANSAL879)
-- 
-- My personal portfolio Website [https://updated-portfolio-kwpo.vercel.app/](https://updated-portfolio-kwpo.vercel.app/)
-- 
+  
+- My personal portfolio Website [LAKSHAY-BANSAL](https://updated-portfolio-kwpo.vercel.app/)
+  
 - 💬 Ask me about **MERN stack WEBD**
 
 - 📫 How to reach me **lakshaybansal879@gmail.com**
